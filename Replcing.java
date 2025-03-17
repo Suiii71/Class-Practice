@@ -13,7 +13,7 @@ public class Replcing {
         String sentence="Java is easy";
         int pos=sentence.indexOf("easy");
         String newText=sentence.substring(0,pos)+ "hard";
-	String.out.println("However, learning Java is fun");
+	
         System.out.println(newText);
     
     }
